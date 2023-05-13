@@ -1,0 +1,20 @@
+<html> _ _
+< meta  charset =" utf-8 " >
+	< cabeça >
+
+		< h1  style =" color:purple; " align =" center " > Blog Pessoal </ h1 >
+
+	</ cabeça >
+
+	< estilo do corpo  =" cor de fundo: rosa; " >	
+		< h2  style =" color:purple; " align =" left " > Giovanna Amaral </ h2 >
+
+			< p  style =" color:white; " align =" left " > Olá, sou a Giovanna! </ >
+
+
+			< br > </ br >
+
+	</ corpo >
+
+
+</html> _ _
